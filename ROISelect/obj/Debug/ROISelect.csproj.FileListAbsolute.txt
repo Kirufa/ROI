@@ -1,0 +1,9 @@
+D:\VisualStudioProject\ROISelect\ROISelect\bin\Debug\ROISelect.exe
+D:\VisualStudioProject\ROISelect\ROISelect\bin\Debug\ROISelect.pdb
+D:\VisualStudioProject\ROISelect\ROISelect\obj\Debug\ROISelect.csprojAssemblyReference.cache
+D:\VisualStudioProject\ROISelect\ROISelect\obj\Debug\ROISelect.Properties.Resources.resources
+D:\VisualStudioProject\ROISelect\ROISelect\obj\Debug\ROISelect.csproj.GenerateResource.cache
+D:\VisualStudioProject\ROISelect\ROISelect\obj\Debug\ROISelect.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\ROISelect\ROISelect\obj\Debug\ROISelect.exe
+D:\VisualStudioProject\ROISelect\ROISelect\obj\Debug\ROISelect.pdb
+D:\VisualStudioProject\ROISelect\ROISelect\obj\Debug\ROISelect.form_main.resources
